@@ -1,0 +1,64 @@
+* { 
+    margin: 0 auto; 
+} 
+ 
+.block { 
+    width: 600px; 
+    height: 80px; 
+} 
+header { 
+    margin-bottom: 100px; 
+} 
+.main-block-top { 
+    width: 200px; 
+    height: 80px; 
+    float: left; 
+} 
+ 
+.main-block-bottom { 
+    width: 200px; 
+    height: 80px; 
+    float: left; 
+} 
+footer { 
+    margin-top: 100px; 
+    background-color: rgb(150, 243, 127); 
+    width: 600px; 
+    overflow: auto; 
+} 
+.footer-block { 
+    width: 100px; 
+    height: 100px; 
+    margin: 30px; 
+    padding: 20px; 
+    float: left; 
+} 
+ 
+/* Colors */ 
+ 
+.red { 
+    background-color: red; 
+} 
+ 
+.green { 
+    background-color: green; 
+} 
+ 
+.blue { 
+    background-color: blue; 
+} 
+ 
+.yellow { 
+    background-color: yellow; 
+} 
+ 
+.grey { 
+    background-color: gray; 
+} 
+ 
+.black { 
+    background-color: black; 
+} 
+h1 {
+    text-align: center;
+}
